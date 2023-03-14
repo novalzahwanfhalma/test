@@ -1,0 +1,24 @@
+/* Style untuk card */
+.card {
+    background-color: #243033;
+    box-shadow: 0 4px 8px 0 rgba(0, 26, 131, 0.2);
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+}
+
+/* Style untuk gambar di dalam card */
+.card img {
+    max-width: 70%;
+    height: auto;
+    margin-bottom: 1px;
+}
+
+/* Style untuk judul di dalam card */
+.card h1 {
+    font-size: 25px;
+    color: #b1afa6;
+    margin-bottom: 10px;
+}
